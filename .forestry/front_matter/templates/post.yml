@@ -14,3 +14,5 @@ fields:
 - type: text
   name: description
   label: description
+pages:
+- content/blog/to-jest-post.md
